@@ -1,0 +1,4 @@
+django
+pycurl
+grab
+lxml
